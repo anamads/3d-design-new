@@ -1035,6 +1035,9 @@ div.image {
   margin-bottom: 10px;
 }
 
+.triple video {
+width: 100%;
+}
 .hhgrid1 video {
   width: 100%;
 }
