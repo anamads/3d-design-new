@@ -835,6 +835,9 @@ footer .copyright {
 }
 
 /*Contact*/
+#email{
+  color: #d81b60;
+}
 .success {
   text-align: center;
   position: fixed;
