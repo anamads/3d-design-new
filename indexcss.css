@@ -1687,7 +1687,7 @@ width: 100%;
   .banner {
     top: 2rem;
     width: 100%;
-     height: 150px;
+    height: 100%;
   }
   .banner p {
     font-size: 1.1rem;
@@ -1743,11 +1743,11 @@ width: 100%;
     width: 100%;
   }
   h1 {
-    font-size: 2.1rem;
+    font-size: 1.9rem;
   }
 
   h2 {
-    font-size: 1.8rem;
+    font-size: 1.6rem;
   }
   .container h3 {
     font-size: 1rem;
