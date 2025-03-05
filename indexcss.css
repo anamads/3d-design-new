@@ -308,7 +308,7 @@ nav a:hover {
 .logos {
   padding: 1rem 0 0;
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   column-gap: 10px;
 }
 .logos img {
@@ -1259,7 +1259,7 @@ width: 100%;
   }
   .logos {
     padding-top: 0;
-    padding-bottom: 2rem;
+    padding-bottom: 1rem;
   }
   .feedbackgrid {
     grid-template-columns: 1fr;
