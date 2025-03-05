@@ -695,7 +695,7 @@ h2 .bold {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: auto;
-  column-gap: 3rem;
+  column-gap: 2rem;
 }
 #fat {
   font-family: Manrope;
