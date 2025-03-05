@@ -1360,12 +1360,13 @@ width: 100%;
   .toolgrid p {
     margin: 0.5rem auto 0;
   }
-  .tool {
+   .tool {
     padding: 1rem;
+    height: 120px;
   }
 
   .toolgrid img {
-    height: 25%;
+    height: 40%;
     width: auto;
   }
 
