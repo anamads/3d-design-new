@@ -1,4 +1,7 @@
 /* Universal Styles */
+#hide{
+  display:none;
+}
 
 body {
   margin: 0 auto;
