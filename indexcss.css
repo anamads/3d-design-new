@@ -913,7 +913,7 @@ form textarea {
   border-radius: 10px;
 }
 label {
-  font-family: "DM Sans";
+  font-family: "DM Sans", sans-serif;
 }
 form button {
   margin-top: 1rem;
