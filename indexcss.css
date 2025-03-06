@@ -326,6 +326,12 @@ nav a:hover {
   align-content: center;
 }
 
+.threelogos {
+  padding: 0 30% 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
 .logos p {
   font-size: 0.9rem;
   line-height: 1.1;
