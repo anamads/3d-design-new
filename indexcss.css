@@ -330,6 +330,7 @@ nav a:hover {
   padding: 0 30% 0;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  margin-bottom: 2rem;
 }
 
 .logos p {
