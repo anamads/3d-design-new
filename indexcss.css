@@ -2,6 +2,14 @@
 #hide{
   display:none;
 }
+#circle {
+  width: 160px;
+  margin: 5rem auto 0;
+  text-align: center;
+  place-items: center;
+  display: block;
+  border-radius: 80px;
+}
 
 body {
   margin: 0 auto;
