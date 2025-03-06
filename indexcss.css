@@ -3,12 +3,16 @@
   display:none;
 }
 #circle {
-  width: 160px;
+  width: 180px;
   margin: 5rem auto 0;
   text-align: center;
   place-items: center;
   display: block;
-  border-radius: 80px;
+  border-radius: 90px;
+}
+
+#metext{
+  padding-top: 2rem;
 }
 
 body {
