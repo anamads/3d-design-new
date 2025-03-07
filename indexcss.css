@@ -700,7 +700,7 @@ h2 .bold {
 .followicons {
   margin: 0 auto;
   display: grid;
-  padding: 0.5rem 23% 4rem;
+  padding: 0.5rem 23% 2rem;
   width: 250px;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: auto;
@@ -833,7 +833,8 @@ h2 .bold {
 }
 
 .connecting h4 {
-  padding-top: 4rem;
+  margin-bottom: 0.5rem;
+  padding-top: 2rem;
   text-align: center;
   font-weight: 500;
   color: #262626;
