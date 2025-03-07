@@ -1669,7 +1669,7 @@ width: 100%;
     margin-bottom: 0;
   }
 }
-  .hidemobile{
+  #hidemobile{
     display:none;
   }
 
@@ -1965,7 +1965,7 @@ width: 100%;
     outline: none;
   }
 
-    .hidemobile{
+    #hidemobile{
     display:none;
   }
 }
