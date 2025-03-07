@@ -1680,6 +1680,11 @@ width: 100%;
     padding-top: 0.7rem;
     padding-bottom: 0.7rem;
   }
+
+   .main {
+    background-image: url("./byredo-anastasia-orlova-cgi-3drender-product-photography-phone.png");
+  }
+  
   .hamburger {
     display: none;
   }
