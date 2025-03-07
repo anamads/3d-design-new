@@ -1888,6 +1888,10 @@ width: 100%;
   .last {
     margin-bottom: 5rem;
   }
+
+  .gallery{
+  grid-template-columns: 1fr 1fr 1fr;
+  }
   /*Nordhom*/
   .elements p {
     font-size: 0.8rem;
