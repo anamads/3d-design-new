@@ -702,9 +702,7 @@ h2 .bold {
   justify-content: center;
 }
 .followicons img:hover {
-  background-color: #ffb40080;
-
-  border-radius: 10px;
+  
 }
 
 .reviews {
