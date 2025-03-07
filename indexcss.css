@@ -636,7 +636,7 @@ button.CTA:hover .learn {
   display: grid;
   grid-template-columns: 1fr 5fr;
   grid-template-rows: repeat(4, auto);
-  row-gap: 15px;
+  row-gap: 25px;
   column-gap: 15px;
   align-items: center;
 }
