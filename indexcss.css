@@ -285,6 +285,10 @@ nav a:hover {
   width: 75%;
 }
 
+.banner h1 {
+  width: 75%;
+}
+
 .banner {
   position: relative;
   width: 70%;
