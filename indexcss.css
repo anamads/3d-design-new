@@ -1269,6 +1269,9 @@ width: 100%;
   .main {
     background-position: 70%;
   }
+  .hidemobile{
+    display:none;
+  }
   #lasthuman {
     width: 70%;
   }
