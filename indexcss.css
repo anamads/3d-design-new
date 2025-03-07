@@ -1269,9 +1269,7 @@ width: 100%;
   .main {
     background-position: 70%;
   }
-  .hidemobile{
-    display:none;
-  }
+
   #lasthuman {
     width: 70%;
   }
@@ -1671,6 +1669,9 @@ width: 100%;
     margin-bottom: 0;
   }
 }
+  .hidemobile{
+    display:none;
+  }
 
 @media only screen and (max-width: 600px) {
   .main {
@@ -1962,6 +1963,10 @@ width: 100%;
     margin: 5px 0 10px;
     padding: 10px;
     outline: none;
+  }
+
+    .hidemobile{
+    display:none;
   }
 }
 @media only screen and (max-width: 380px) {
