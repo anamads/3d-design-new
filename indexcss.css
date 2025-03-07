@@ -80,7 +80,7 @@ strong {
   text-align: center;
   transition-property: background-color;
   transition-duration: 500ms;
-  margin-top: 2rem;
+  margin-top: 1rem;
 }
 #bottombut img {
   height: 30px;
@@ -93,7 +93,7 @@ strong {
   padding-left: 35px;
   padding-right: 35px;
   border-radius: 50px;
-  margin-top: 2rem;
+  margin-top: 1rem;
   line-height: 60px;
   background-color: hsla(231, 44%, 74%, 0%);
 
@@ -170,6 +170,7 @@ h1 {
   color: hsl(0, 0%, 15%);
   font-size: 3.3rem;
   font-family: "Manrope", sans-serif;
+  margin-bottom: 1rem;
 }
 /*ex gilroy 3.6*/
 
