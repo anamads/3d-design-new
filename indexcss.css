@@ -71,6 +71,7 @@ strong {
   display: inline-block;
   border-radius: 50px;
   background-color: #d81b60;
+  border: 1px solid #d81b60;
   color: white;
   padding-left: 35px;
   padding-right: 35px;
