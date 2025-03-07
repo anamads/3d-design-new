@@ -1287,6 +1287,11 @@ width: 100%;
 
   .banner p {
     width: 100%;
+    display: none;
+  }
+
+  .banner .buttonother{
+    display: none;
   }
   .reviews {
     padding-bottom: 3rem;
