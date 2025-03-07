@@ -365,7 +365,7 @@ nav a:hover {
   font-size: 0.8rem;
 }
 .containernew {
-  margin: 3rem auto;
+  margin: 2rem auto;
   display: grid;
   width: 100%;
   overflow: hidden;
@@ -545,7 +545,7 @@ button.CTA:hover .learn {
   row-gap: 15px;
   column-gap: 15px;
   margin-bottom: 4rem;
-  margin-top: 3rem;
+  margin-top: 2rem;
 }
 
 .selected {
@@ -609,7 +609,7 @@ button.CTA:hover .learn {
   text-align: center;
 }
 .dgrid {
-  margin-top: 3rem;
+  margin-top: 2rem;
   display: grid;
   grid-template-columns: 1fr 1fr;
   column-gap: 1rem;
@@ -714,7 +714,7 @@ h2 .bold {
   padding-top: 5rem;
 }
 .feedbackgrid {
-  margin: 3rem auto 0;
+  margin: 2rem auto 0;
 
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -805,7 +805,7 @@ h2 .bold {
   border-radius: 50px;
 }*/
 .qgrid {
-  margin-top: 3rem;
+  margin-top: 2rem;
   padding-left: 0;
 }
 .answers {
