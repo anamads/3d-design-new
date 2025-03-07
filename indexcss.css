@@ -1669,7 +1669,7 @@ width: 100%;
     margin-bottom: 0;
   }
 }
-  #hidemobile{
+  .hidemobile{
     display:none;
   }
 
@@ -1965,9 +1965,7 @@ width: 100%;
     outline: none;
   }
 
-    #hidemobile{
-    display:none;
-  }
+
 }
 @media only screen and (max-width: 380px) {
   form input,
