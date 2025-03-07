@@ -35,6 +35,7 @@ html {
 }
 
 a {
+  cursor: pointer;
   color: #262626;
   font-family: "Manrope";
   text-decoration: none;
@@ -115,6 +116,7 @@ strong {
   margin-top: 0 auto;
 }
 .buttonlast:hover {
+  cursor: pointer;
   color: #262626;
   background-color: #ffffff;
   border: 1px solid #262626;
@@ -254,6 +256,7 @@ header nav ul {
 }
 
 nav a {
+  
   vertical-align: center;
   font-size: 1rem;
   padding: 1rem;
@@ -262,8 +265,7 @@ nav a {
   text-decoration: none;
 }
 nav a:hover {
-  background-color: #d81b6030;
-  border-radius: 50px;
+  cursor: pointer;
 }
 /* Landing Section */
 
