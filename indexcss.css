@@ -1692,6 +1692,14 @@ width: 100%;
     position: absolute;
     right: 0;
   }
+
+  .button {
+  line-height: 55px;
+}
+
+   .buttonother {
+  line-height: 55px;
+}
   .feed {
     margin-bottom: 0;
   }
