@@ -1067,6 +1067,11 @@ div.image {
   margin: 3rem auto;
 }
 
+.hhe video {
+  width: 100%;
+  height: 100%;
+}
+
 .hhe {
   padding-top: 8rem;
   padding-bottom: 3rem;
