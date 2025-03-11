@@ -826,11 +826,23 @@ h2 .bold {
   margin-top: 2rem;
   padding-left: 0;
 }
+
 .answers {
   margin: 2rem auto;
-}
-.non-active {
   display: none;
+}
+.icon-main {
+  transition: .5s;
+}
+.faq {
+  transition: 0.5s;
+  cursor: pointer;
+}
+.faq.active .answers{
+  display: block;
+}
+.faq.active .icon-main {
+  transform: rotate(45deg);
 }
 
 /*Connect*/
