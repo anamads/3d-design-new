@@ -1,4 +1,8 @@
 /* Universal Styles */
+* {
+  scroll-behavior: smooth;
+}
+
 #hide{
   display:none;
 }
