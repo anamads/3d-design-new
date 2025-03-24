@@ -1792,6 +1792,7 @@ button.CTA:hover .learn {
   
   .hamburger {
     display: none;
+    height: 100vh;
   }
   #hamburger-icon {
     display: block;
