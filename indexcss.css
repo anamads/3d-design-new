@@ -66,12 +66,10 @@ strong {
   display: none;
 }
 #closedown {
-  width: 10px;
-  height: 10px;
+  width: 30px;
+  height: 30px;
 }
-.hamburger {
-  position: relative;
-}
+
 .hamburger li:first-child {
   display: none;
   position: absolute;
