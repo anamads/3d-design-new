@@ -1478,6 +1478,10 @@ button.CTA:hover .learn {
   .final h3 {
     margin-top: 0;
   }
+
+  h3{
+    margin-top: 2rem;
+  }
   .aboutbox {
     padding-top: 5rem;
     width: 80%;
