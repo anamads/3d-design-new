@@ -1785,7 +1785,7 @@ button.CTA:hover .learn {
   }*/
 
     header {
-    padding: 1rem 0 1rem;
+    padding: 1.2rem 0;
     background-color: hsla(0, 0%, 91%, 70%);
   }
   
@@ -1808,12 +1808,12 @@ button.CTA:hover .learn {
 
   #logofix {
     position: fixed;
-    top: 0;
+    top: 0.4;
     vertical-align: top;
   }
   #hamburger-icon {
     position: fixed;
-    top: 0.6rem;
+    top: 1rem;
     right: 2rem;
     text-align: left;
   }
