@@ -2062,7 +2062,7 @@ button.CTA:hover .learn {
     display: none;
   }
   .learn {
-    display: block;
+    display: inline;
   }
   .final {
     grid-template-columns: 1fr;
