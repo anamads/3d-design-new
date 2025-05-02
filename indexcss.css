@@ -1785,6 +1785,7 @@ button.CTA:hover .learn {
   }*/
 
     header {
+    padding: 1rem 0 1rem;
     background-color: hsla(0, 0%, 91%, 70%);
   }
   
