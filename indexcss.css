@@ -1792,19 +1792,58 @@ button.CTA:hover .learn {
     background-image: url("./byredo-anastasia-orlova-cgi-3drender-product-photography-phone.png");
   }
   
-  .hamburger {
-    display: none;
-    height: 100vh;
-  }
-  #hamburger-icon {
-    display: block;
-    width: 30px;
-  }
+
+
   #closeburger {
     display: block;
     position: absolute;
     right: 0;
   }
+
+  #logofix {
+    position: fixed;
+    top: 0;
+    vertical-align: top;
+  }
+  #hamburger-icon {
+    position: fixed;
+    top: 0.6rem;
+    right: 2rem;
+    text-align: left;
+  }
+
+  #closedown {
+    position: fixed;
+    top: 0.6rem;
+    right: 2rem;
+  }
+
+  nav a {
+    padding: 1rem;
+    line-height: 2.3rem;
+    color: #262626;
+    text-decoration: none;
+  }
+
+  .hamburger {
+    display: none;
+    margin-top: 3rem;
+    padding-left: 0;
+    height: 100vh;
+  }
+
+  .hamburger li {
+    padding-left: 0;
+  }
+
+  .hamburger a {
+    padding-left: 0;
+  }
+  #hamburger-icon {
+    display: block;
+    width: 30px;
+  }
+
 
   .button {
   line-height: 55px;
