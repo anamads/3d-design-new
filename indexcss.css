@@ -1815,7 +1815,7 @@ button.CTA:hover .learn {
 
   #logofix {
     position: fixed;
-    top: 0.4;
+    top: 0.4rem;
     vertical-align: top;
   }
   #hamburger-icon {
