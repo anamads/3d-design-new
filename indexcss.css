@@ -1783,6 +1783,11 @@ button.CTA:hover .learn {
     display: flex;
     flex-direction: column;
   }*/
+
+    header {
+  
+    background-color: hsla(0, 0%, 91%, 65%);
+  }
   .desktop {
     padding-top: 0.7rem;
     padding-bottom: 0.7rem;
