@@ -65,6 +65,10 @@ strong {
 #hamburger-icon {
   display: none;
 }
+#closedown {
+  width: 10px;
+  height: 10px;
+}
 .hamburger {
   position: relative;
 }
