@@ -744,6 +744,9 @@ h2 .bold {
   grid-template-rows: auto;
   column-gap: 1rem;
 }
+.hhe .reviews{
+  margin-bottom: 5rem;
+  
 #fat {
   font-family: Manrope;
   margin-top: 2.5rem;
