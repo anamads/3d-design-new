@@ -756,6 +756,7 @@ h2 .bold {
   margin: 0 auto 4rem;
   background-color: white;
   border-radius: 50px;
+  width: 100%;
 }
 
 .feed p {
