@@ -45,4 +45,4 @@ const done = document.getElementById("done");
 done.addEventListener("click", closeFunction);
 
 const redone = document.getElementById("redone");
-done.addEventListener("click", closeFunction);
+redone.addEventListener("click", closeFunction);
