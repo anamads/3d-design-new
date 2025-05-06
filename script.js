@@ -40,3 +40,9 @@ const closeFunction = () => {
   burgerlong.style = "none";
 };
 close.addEventListener("click", closeFunction);
+
+const done = document.getElementById("done");
+done.addEventListener("click", closeFunction);
+
+const redone = document.getElementById("redone");
+done.addEventListener("click", closeFunction);
