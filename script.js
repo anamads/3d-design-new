@@ -35,10 +35,15 @@ for (const item of faqs) {
 }
 
 const close = document.getElementById("closeburger");
-const closeFunction = () => {
-  hamb.style.display = "block";
-  burgerlong.style = "none";
-};
+  const closeFunction = () => {
+    if (window.innerWidth > 768) {
+      console.log('1')
+    burgerlong.style = "none";
+    } else {
+    hamb.style.display = "block";
+      burgerlong.style = "none";
+    }
+    }
 close.addEventListener("click", closeFunction);
 
 const done = document.getElementById("done");
