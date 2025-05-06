@@ -36,7 +36,7 @@ for (const item of faqs) {
 
 const close = document.getElementById("closeburger");
   const closeFunction = () => {
-    if (window.innerWidth > 768) {
+    if (window.innerWidth > 601) {
       console.log('1')
     burgerlong.style = "none";
     } else {
