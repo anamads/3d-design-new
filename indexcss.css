@@ -531,7 +531,7 @@ nav a:hover {
 }
 
 .texts {
-  margin: 10%;
+  margin: 2rem;
 }
 .words {
   padding: 0;
@@ -749,7 +749,7 @@ h2 .bold {
   
 #fat {
   font-family: Manrope;
-  margin-top: 2.5rem;
+  margin-top: 2rem;
   font-size: 1rem;
   font-weight: 800;
   margin-bottom: 0;
@@ -765,8 +765,8 @@ h2 .bold {
 .feed p {
   font-size: 0.8rem;
   margin: 1rem auto 2.5rem;
-  padding-left: 2.5rem;
-  padding-right: 2.5rem;
+  padding-left: 2rem;
+  padding-right: 2rem;
 }
 
 /*INSTAGRAM*/
