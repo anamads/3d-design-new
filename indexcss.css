@@ -1222,6 +1222,10 @@ div.image {
   margin-bottom: 10px;
 }
 
+.triple img{
+  pointer-events: none;
+}
+
 .triple video {
 width: 100%;
 }
