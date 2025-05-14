@@ -1508,6 +1508,10 @@ button.CTA:hover .learn {
     grid-template-colums: 1fr;
     grid-template-rows: auto;
   }
+
+  .blogemail{
+  width: 100%;
+  }
   
   .main {
     background-position: 70%;
