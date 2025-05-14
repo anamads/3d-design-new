@@ -229,6 +229,110 @@ p {
   
 }
 
+
+/*Blog*/
+#blogform {
+  display: block;
+}
+
+#blogp {
+  margin-bottom: 1rem;
+}
+
+#blogbutton {
+  display: inline-block;
+  border-radius: 50px;
+  background-color: #262626;
+  color: white;
+  border: none;
+  width: 200px;
+  margin-top: 0;
+  padding-left: 25px;
+  padding-right: 25px;
+  line-height: 100%;
+
+  text-align: center;
+  transition-property: background-color;
+  transition-duration: 500ms;
+}
+#email {
+  margin: 0 auto;
+  padding: 5px 10px;
+  opacity: 50%;
+}
+.onepart {
+  margin-left: 1rem;
+  vertical-align: center;
+  justify-content: center;
+}
+.blogemail {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  padding: 2px;
+  width: 600px;
+  line-height: 50px;
+  height: 50px;
+  border: 1px solid black;
+  border-radius: 50px;
+}
+#blogging {
+  margin-left: 28rem;
+  margin-right: 28rem;
+}
+
+#blogging p {
+  margin-bottom: 1rem;
+}
+
+#blogging h4 {
+  margin-top: 2rem;
+}
+
+#blogging video {
+  width: 100%;
+}
+
+#blogbut {
+  justify-content: center;
+  text-align: center;
+}
+#tripleblog {
+  margin-top: 5rem;
+  column-gap: 1.5rem;
+}
+#blogpost {
+  vertical-align: top;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr auto;
+}
+#blogpost p {
+  opacity: 60%;
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+#blog {
+  border-radius: 5%;
+}
+
+#blogsgrid {
+  display: grid;
+  column-gap: 0.5rem;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+}
+#blogfat {
+  font-weight: 600;
+}
+#postname {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+
+
+
 /* Header */
 .tophead {
   margin: 0 auto;
