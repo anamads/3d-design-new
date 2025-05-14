@@ -2074,6 +2074,12 @@ button.CTA:hover .learn {
   .content {
     margin: 0 2rem;
   }
+
+    #blogging {
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+  
   .button {
     width: 100%;
   }
