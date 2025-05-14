@@ -299,6 +299,7 @@ p {
 #tripleblog {
   margin-top: 5rem;
   column-gap: 1.5rem;
+  margin-bottom: 3rem;
 }
 #blogpost {
   vertical-align: top;
