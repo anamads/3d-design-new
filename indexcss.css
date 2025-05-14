@@ -231,6 +231,14 @@ p {
 
 
 /*Blog*/
+
+#blogpost h4:hover{
+  text-decoration: underline solid #e5e8eb 15px;
+  text-underline-offset: -2px;
+  text-decoration-skip-ink: none;
+  cursor: pointer;
+}
+
 #blogform {
   display: block;
 }
