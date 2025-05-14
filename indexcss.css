@@ -827,7 +827,7 @@ h2 .bold {
   margin: 0 auto;
   display: grid;
   padding: 0 23% 2rem;
-  width: 250px;
+  width: 200px;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: auto;
   column-gap: 8%;
