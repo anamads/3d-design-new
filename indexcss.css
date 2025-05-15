@@ -1403,6 +1403,14 @@ width: 100%;
   .elem {
     height: 300px;
   }
+
+  .button{
+    line-height:52px;
+  }
+
+  .buttonother{
+    line-height:52px;
+  }
 }
 
 @media only screen and (max-width: 1250px) and (min-width: 896px) {
