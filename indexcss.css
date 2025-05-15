@@ -1407,10 +1407,31 @@ width: 100%;
   .button{
     line-height:52px;
   }
+.button: hover{
+   line-height:50px;
+}
 
   .buttonother{
     line-height:52px;
   }
+
+  .buttonother: hover{
+   line-height:50px;
+}
+  
+  .buttonlast {
+    line-height:52px;
+  }
+  .buttonlast: hover{
+   line-height:50px;
+}
+
+  .buttonaudit{
+    line-height:52px;
+  }
+  .buttonaudit: hover{
+   line-height:50px;
+}
 }
 
 @media only screen and (max-width: 1250px) and (min-width: 896px) {
