@@ -244,6 +244,7 @@ p {
 }
 
 #blogp {
+  display: none;
   margin-bottom: 1rem;
 }
 
@@ -274,7 +275,7 @@ p {
   justify-content: center;
 }
 .blogemail {
-  display: grid;
+  display: none;
   grid-template-columns: 3fr 1fr;
   padding: 2px;
   width: 600px;
