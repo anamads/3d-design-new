@@ -307,13 +307,13 @@ p {
   text-align: center;
 }
 #tripleblog {
-  margin-top: 5rem;
+  margin-top: 2rem;
   column-gap: 1.5rem;
   margin-bottom: 3rem;
 }
 #blogpost {
   vertical-align: top;
-  margin: 0 auto;
+  margin: 1.5rem auto 0;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr auto;
