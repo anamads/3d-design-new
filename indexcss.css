@@ -1407,7 +1407,7 @@ width: 100%;
   .button{
     line-height:52px;
   }
-.button: hover{
+.button:hover{
    line-height:50px;
 }
 
@@ -1415,21 +1415,21 @@ width: 100%;
     line-height:52px;
   }
 
-  .buttonother: hover{
+  .buttonother:hover{
    line-height:50px;
 }
   
   .buttonlast {
     line-height:52px;
   }
-  .buttonlast: hover{
+  .buttonlast:hover{
    line-height:50px;
 }
 
   .buttonaudit{
     line-height:52px;
   }
-  .buttonaudit: hover{
+  .buttonaudit:hover{
    line-height:50px;
 }
 }
@@ -2047,6 +2047,10 @@ button.CTA:hover .learn {
    .buttonother {
   line-height: 55px;
 }
+  .buttonother: hover{
+    line-height: 53px;
+  }
+  
   .feed {
     margin-bottom: 0;
   }
