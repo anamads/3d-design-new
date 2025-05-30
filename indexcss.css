@@ -1255,6 +1255,11 @@ width: 100%;
   text-align: center;
 }
 
+#midtextt{
+  margin-top: 0;
+  text-align: center;
+}
+
 .hhe img {
   width: 100%;
   height: 100%;
