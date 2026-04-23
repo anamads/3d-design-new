@@ -2,6 +2,11 @@
 * {
   scroll-behavior: smooth;
 }
+.blob1{
+display: none;}
+
+.blob3{
+display: none;}
 
 #hide{
   display:none;
