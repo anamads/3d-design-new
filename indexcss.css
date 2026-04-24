@@ -502,7 +502,7 @@ nav a:hover {
   height: 100%;
   overflow: hidden;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr;
+  grid-template-rows: auto;
   row-gap: 10px;
   column-gap: 10px;
   justify-content: center;
@@ -1644,7 +1644,7 @@ button.CTA:hover .learn {
   }
   .containernew {
     grid-template-columns: 1fr;
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
   }
 
   .banner p {
