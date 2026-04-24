@@ -110,7 +110,7 @@ strong {
 
   text-align: center;
   border: 1px solid #6e859e;
-  transition-property: all;
+  transition-property: background-color;
   transition-duration: 500ms;
 }
 
@@ -134,7 +134,9 @@ strong {
   line-height: 60px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
-.buttonother:hover {
+
+.buttonother: hover {
+  cursor: pointer;
   color: white;
   text-align: center;
   background-color: #6e859e;
