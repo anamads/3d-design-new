@@ -82,8 +82,8 @@ strong {
 .button {
   display: inline-block;
   border-radius: 50px;
-  background-color: ##6e859e;
-  border: 1px solid ##6e859e;
+  background-color: #6e859e;
+  border: 1px solid #6e859e;
   color: white;
   padding-left: 35px;
   padding-right: 35px;
@@ -100,7 +100,7 @@ strong {
 .buttonother {
   margin-left: 0.5rem;
   display: inline-block;
-  color: ##6e859e;
+  color: #6e859e;
   padding-left: 35px;
   padding-right: 35px;
   border-radius: 50px;
@@ -109,7 +109,7 @@ strong {
   background-color: hsla(231, 44%, 74%, 0%);
 
   text-align: center;
-  border: 1px solid ##6e859e;
+  border: 1px solid #6e859e;
   transition-property: all;
   transition-duration: 500ms;
 }
@@ -137,7 +137,7 @@ strong {
 .buttonother:hover {
   color: white;
   text-align: center;
-  background-color: ##6e859e;
+  background-color: #6e859e;
 }
 .buttonaudit {
   display: inline-block;
