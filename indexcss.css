@@ -886,7 +886,7 @@ button.CTA:hover .learn {
 }
 
 h2 .bold {
-  color: #ed4672;
+  color: #6e859e;
   font-weight: 800;
 }
 
@@ -1089,7 +1089,7 @@ footer .copyright {
 
 /*Contact*/
 #emailme{
-  color: #d81b60;
+  color: #6e859e;
 }
 .success {
   text-align: center;
@@ -1168,7 +1168,7 @@ label {
 form button {
   margin-top: 1rem;
   font-family: "DM Sans", sans-serif;
-  color: #262626;
+  color: white;
   border-radius: 50px;
   width: 300px;
   background-color: #6e859e;
