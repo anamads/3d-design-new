@@ -532,6 +532,11 @@ nav a:hover {
   width: 60%;
   text-transform: uppercase;
 }
+
+.containernew p {  
+  width: 70%;
+ 
+}
 .field {
   display: grid;
   grid-template-columns: 1fr;
