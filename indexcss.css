@@ -623,6 +623,48 @@ nav a:hover {
 .blob4:hover {
   box-shadow: 2px 2px 10px 0px rgba(0, 0, 0, 0.2);
 }
+
+.blobbeauty {
+  background-image: url("./lemon.png");
+  background-size: cover;
+  background-position: 80%;
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+  transition-property: background-color;
+  transition: all 200ms ease-in;
+}
+.blobbeauty:hover {
+  box-shadow: 2px 2px 10px 0px rgba(0, 0, 0, 0.2);
+}
+
+.blobmotion {
+  background-image: url("./motion.png");
+  background-size: cover;
+  background-position: 80%;
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+  transition-property: background-color;
+  transition: all 200ms ease-in;
+}
+.blobmotion:hover {
+  box-shadow: 2px 2px 10px 0px rgba(0, 0, 0, 0.2);
+}
+
+.blobjewel {
+  background-image: url("./jewelry1.png");
+  background-size: cover;
+  background-position: 80%;
+  width: 100%;
+  height: auto;
+  border-radius: 20px;
+  transition-property: background-color;
+  transition: all 200ms ease-in;
+}
+.blobjewel:hover {
+  box-shadow: 2px 2px 10px 0px rgba(0, 0, 0, 0.2);
+}
 .square1 {
   /*background-color: #b5e04c;*/
   background-color: #ffb400;
