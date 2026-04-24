@@ -534,9 +534,13 @@ nav a:hover {
 }
 
 .containernew p {  
-  width: 70%;
- 
+  width: 65%;
 }
+
+.containernew li {  
+  width: 65%;
+}
+
 .field {
   display: grid;
   grid-template-columns: 1fr;
