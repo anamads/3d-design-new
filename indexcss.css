@@ -419,7 +419,7 @@ nav a:hover {
   display: flex;
   align-items: center;
   height: 40rem;
-  background-image: url("./cgi-landing-3d-render-beauty-a-orlova.png");
+  background-image: url("./skincare/cgi-landing-3d-render-beauty-a-orlova.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -634,11 +634,11 @@ margin-top: 0;
 }
 
 .blobbeauty {
-  background-image: url("./lemon.png");
+  background-image: url("./skincare/ampoule-cgi-3d-render.png");
   background-size: cover;
   background-position: 80%;
   width: 100%;
-  height: auto;
+  height: 250px;
   border-radius: 20px;
   transition-property: background-color;
   transition: all 200ms ease-in;
@@ -652,8 +652,8 @@ margin-top: 0;
   background-size: cover;
   background-position: 80%;
   width: 100%;
-  height: auto;
   border-radius: 20px;
+  height: 250px;
   transition-property: background-color;
   transition: all 200ms ease-in;
 }
@@ -666,7 +666,7 @@ margin-top: 0;
   background-size: cover;
   background-position: 80%;
   width: 100%;
-  height: auto;
+ height: 250px;
   border-radius: 20px;
   transition-property: background-color;
   transition: all 200ms ease-in;
