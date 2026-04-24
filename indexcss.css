@@ -114,6 +114,12 @@ strong {
   transition-duration: 500ms;
 }
 
+.buttonother:hover {
+  color: white;
+  text-align: center;
+  background-color: #6e859e;
+}
+
 .buttonlast {
   display: inline-block;
   border-radius: 50px;
@@ -135,12 +141,7 @@ strong {
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
 
-.buttonother: hover {
-  cursor: pointer;
-  color: white;
-  text-align: center;
-  background-color: #6e859e;
-}
+
 .buttonaudit {
   display: inline-block;
   border-radius: 50px;
