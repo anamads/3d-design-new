@@ -564,6 +564,16 @@ margin-top: 0;
 .field p {
   margin: 0;
 }
+.blobster {
+  background-color: white;
+  position: relative;
+  overflow: hidden; 
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid hsla(0, 0%, 91%, 0.577);
+  height: 100%;
+}
 
 .blob {
   background-image: url("./skincare/ampoule-cgi-3d-render.png");
