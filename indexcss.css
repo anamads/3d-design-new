@@ -532,16 +532,15 @@ nav a:hover {
 
 .containernew h3 {
   font-weight: 700;
-  width: 60%;
   text-transform: uppercase;
 }
 
 .containernew p {  
-  width: 65%;
+font-size: 16px;
 }
 
 .containernew li {  
-  width: 65%;
+ 
   font-family: "DM Sans", sans-serif;
   font-size: 16px;
 }
@@ -574,7 +573,26 @@ margin-top: 0;
   border: 1px solid hsla(0, 0%, 91%, 0.577);
   height: 100%;
 }
+.blobster img {
+  margin-top: auto;
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  display: block;
+}
 
+.blobster::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 250px;
+
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.97), rgba(255, 255, 255, 0) 40%);
+
+  pointer-events: none;
+}
 .blob {
   background-image: url("./skincare/ampoule-cgi-3d-render.png");
   background-size: cover;
@@ -734,6 +752,12 @@ margin-top: 0;
 
 .texts {
   margin: 10%;
+}
+.texts p {
+  opacity: 60%;
+}
+.texts li {
+  opacity: 60%;
 }
 .words {
   padding: 0;
