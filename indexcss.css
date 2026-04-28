@@ -1196,7 +1196,7 @@ form button:hover {
 }
 
 .aboutbox {
-  margin: 0 auto 3rem;
+  margin: 0 10rem 3rem;
   padding-top: 10rem;
   display: grid;
   width: 80%;
@@ -1469,7 +1469,9 @@ width: 100%;
   .content {
     margin: 0 6rem;
   }
-
+.aboutbox {
+  margin: 0 6rem 3rem;
+}
   #blogging{
     margin-left:12rem;
     margin-right:12rem;
@@ -2306,7 +2308,7 @@ button.CTA:hover .learn {
   .aboutbox {
     width: 80%;
     grid-template-columns: 1fr;
-    grid-template-rows: 3fr 1fr;
+    grid-template-rows: auto;
   }
   .aboutme .button {
     margin: 1rem;
