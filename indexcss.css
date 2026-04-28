@@ -533,6 +533,7 @@ nav a:hover {
 .containernew h3 {
   font-weight: 700;
   text-transform: uppercase;
+  margin-top: 0;
 }
 
 .containernew p {  
@@ -548,6 +549,7 @@ font-size: 16px;
 
 .containernew ul {  
 margin-top: 0;
+margin-bottom: 0;
 }
 
 .field {
