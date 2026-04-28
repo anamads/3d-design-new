@@ -1561,7 +1561,8 @@ width: 100%;
 .buttonother:hover {
   color: white;
   text-align: center;
-  background-color: #d81b60;
+  background-color: #262626;
+  border: 1px solid #262626;
 }
 
 .buttonaudit:hover {
