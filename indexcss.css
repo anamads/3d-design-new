@@ -572,7 +572,7 @@ margin-bottom: 0;
   border-radius: 20px;
   display: flex;
   flex-direction: column;
-  border: 1px solid hsla(0, 0%, 91%, 0.577);
+  border: 1px solid hsla(0, 0%, 91%, 0.977);
   height: 100%;
 }
 .blobster img {
